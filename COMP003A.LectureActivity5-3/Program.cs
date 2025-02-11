@@ -1,4 +1,9 @@
-﻿namespace COMP003A.LectureActivity5_3_
+﻿// Author: [Zaid Rojas]
+// Course: COMP003A
+// Faculty: Jonathan Cruz
+// Purpose: Reinforce my understanding of data abstraction by defining abstract methods, implementing them in derived classes, and applying interface-based programming
+
+namespace COMP003A.LectureActivity5_3_
 {
     internal class Program
     {
